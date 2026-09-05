@@ -1,0 +1,708 @@
+{
+  "root": {
+    "parent": "none",
+    "resource": "root.glb",
+    "template": "T_root_modern_B.glb",
+    "archive": {
+      "resource": "archive.glb",
+      "resource_type": "door"
+    },
+    "ken": {
+      "resource": "ken.glb",
+      "resource_type": "door"
+    },
+    "of": {
+      "resource": "of.glb",
+      "resource_type": "door"
+    }
+  },
+  "archive": {
+    "parent": "root",
+    "resource": "archive.glb",
+    "template": "T_nopannels_B.glb",
+    "archive (1)": {
+      "resource": "/archive/archive (1).JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[14.964,27.378,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #0 archive (1)"
+    },
+    "archive (10)": {
+      "resource": "/archive/archive (10).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[-14.970,-27.246,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #1 archive (10)"
+    },
+    "archive (11)": {
+      "resource": "/archive/archive (11).JPG",
+      "resource_type": "image",
+      "width": "79.98",
+      "height": "120.00",
+      "location": "[-2.968,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #2 archive (11)"
+    },
+    "archive (12)": {
+      "resource": "/archive/archive (12).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[12.496,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #3 archive (12)"
+    },
+    "archive (13)": {
+      "resource": "/archive/archive (13).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[3.353,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #4 archive (13)"
+    },
+    "archive (14)": {
+      "resource": "/archive/archive (14).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-12.260,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #5 archive (14)"
+    },
+    "archive (15)": {
+      "resource": "/archive/archive (15).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,-24.139,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #6 archive (15)"
+    },
+    "archive (16)": {
+      "resource": "/archive/archive (16).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[14.964,24.402,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #7 archive (16)"
+    },
+    "archive (17)": {
+      "resource": "/archive/archive (17).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,-21.031,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #8 archive (17)"
+    },
+    "archive (18)": {
+      "resource": "/archive/archive (18).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[14.964,21.426,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #9 archive (18)"
+    },
+    "archive (19)": {
+      "resource": "/archive/archive (19).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,-17.924,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #10 archive (19)"
+    },
+    "archive (2)": {
+      "resource": "/archive/archive (2).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[14.964,18.034,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #11 archive (2)"
+    },
+    "archive (20)": {
+      "resource": "/archive/archive (20).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,-14.817,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #12 archive (20)"
+    },
+    "archive (21)": {
+      "resource": "/archive/archive (21).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[14.964,14.641,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #13 archive (21)"
+    },
+    "archive (22)": {
+      "resource": "/archive/archive (22).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-5.434,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #14 archive (22)"
+    },
+    "archive (23)": {
+      "resource": "/archive/archive (23).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[9.537,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #15 archive (23)"
+    },
+    "archive (24)": {
+      "resource": "/archive/archive (24).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[6.126,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #16 archive (24)"
+    },
+    "archive (25)": {
+      "resource": "/archive/archive (25).JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[-9.320,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #17 archive (25)"
+    },
+    "archive (26)": {
+      "resource": "/archive/archive (26).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.04",
+      "location": "[-14.970,-11.293,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #18 archive (26)"
+    },
+    "archive (27)": {
+      "resource": "/archive/archive (27).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[14.964,11.665,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #19 archive (27)"
+    },
+    "archive (28)": {
+      "resource": "/archive/archive (28).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[-14.970,-7.768,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #20 archive (28)"
+    },
+    "archive (29)": {
+      "resource": "/archive/archive (29).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[14.964,8.689,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #21 archive (29)"
+    },
+    "archive (3)": {
+      "resource": "/archive/archive (3).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[-14.970,-4.661,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #22 archive (3)"
+    },
+    "archive (30)": {
+      "resource": "/archive/archive (30).JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[14.964,5.714,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #23 archive (30)"
+    },
+    "archive (31)": {
+      "resource": "/archive/archive (31).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,-1.553,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #24 archive (31)"
+    },
+    "archive (32)": {
+      "resource": "/archive/archive (32).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[14.964,2.321,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #25 archive (32)"
+    },
+    "archive (33)": {
+      "resource": "/archive/archive (33).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-7.901,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #26 archive (33)"
+    },
+    "archive (34)": {
+      "resource": "/archive/archive (34).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[6.579,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #27 archive (34)"
+    },
+    "archive (35)": {
+      "resource": "/archive/archive (35).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.04",
+      "location": "[-14.970,1.971,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #28 archive (35)"
+    },
+    "archive (36)": {
+      "resource": "/archive/archive (36).JPG",
+      "resource_type": "image",
+      "width": "80.04",
+      "height": "120.00",
+      "location": "[14.964,-1.072,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #29 archive (36)"
+    },
+    "archive (37)": {
+      "resource": "/archive/archive (37).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.04",
+      "location": "[9.315,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #30 archive (37)"
+    },
+    "archive (38)": {
+      "resource": "/archive/archive (38).JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[-6.381,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #31 archive (38)"
+    },
+    "archive (39)": {
+      "resource": "/archive/archive (39).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,5.495,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #32 archive (39)"
+    },
+    "archive (4)": {
+      "resource": "/archive/archive (4).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.04",
+      "location": "[14.964,-4.465,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #33 archive (4)"
+    },
+    "archive (40)": {
+      "resource": "/archive/archive (40).JPG",
+      "resource_type": "image",
+      "width": "79.98",
+      "height": "120.00",
+      "location": "[-14.970,8.602,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #34 archive (40)"
+    },
+    "archive (41)": {
+      "resource": "/archive/archive (41).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.03",
+      "location": "[14.964,-8.274,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #35 archive (41)"
+    },
+    "archive (42)": {
+      "resource": "/archive/archive (42).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,11.709,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #36 archive (42)"
+    },
+    "archive (43)": {
+      "resource": "/archive/archive (43).JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[14.964,-11.666,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #37 archive (43)"
+    },
+    "archive (44)": {
+      "resource": "/archive/archive (44).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[-14.970,14.817,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #38 archive (44)"
+    },
+    "archive (45)": {
+      "resource": "/archive/archive (45).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[14.964,-15.058,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #39 archive (45)"
+    },
+    "archive (46)": {
+      "resource": "/archive/archive (46).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[-10.368,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #40 archive (46)"
+    },
+    "archive (47)": {
+      "resource": "/archive/archive (47).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[3.621,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #41 archive (47)"
+    },
+    "archive (48)": {
+      "resource": "/archive/archive (48).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[12.505,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #42 archive (48)"
+    },
+    "archive (49)": {
+      "resource": "/archive/archive (49).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[-3.441,29.945,2.000]",
+      "vector": "[-0.0,-1.0]",
+      "metadata": "ID #43 archive (49)"
+    },
+    "archive (5)": {
+      "resource": "/archive/archive (5).JPG",
+      "resource_type": "image",
+      "width": "80.03",
+      "height": "120.00",
+      "location": "[-14.970,17.924,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #44 archive (5)"
+    },
+    "archive (50)": {
+      "resource": "/archive/archive (50).jpg",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[14.964,-18.451,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #45 archive (50)"
+    },
+    "archive (51)": {
+      "resource": "/archive/archive (51).jpg",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,21.032,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #46 archive (51)"
+    },
+    "archive (52)": {
+      "resource": "/archive/archive (52).JPG",
+      "resource_type": "image",
+      "width": "79.98",
+      "height": "120.00",
+      "location": "[14.964,-21.426,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #47 archive (52)"
+    },
+    "archive (53)": {
+      "resource": "/archive/archive (53).JPG",
+      "resource_type": "image",
+      "width": "79.98",
+      "height": "120.00",
+      "location": "[-14.970,24.139,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #48 archive (53)"
+    },
+    "archive (6)": {
+      "resource": "/archive/archive (6).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[14.964,-24.402,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #49 archive (6)"
+    },
+    "archive (7)": {
+      "resource": "/archive/archive (7).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.970,27.246,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #50 archive (7)"
+    },
+    "archive (8)": {
+      "resource": "/archive/archive (8).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[14.964,-27.378,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #51 archive (8)"
+    },
+    "archive (9)": {
+      "resource": "/archive/archive (9).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-12.835,-29.936,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #52 archive (9)"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "ken": {
+    "parent": "root",
+    "resource": "ken.glb",
+    "template": "T_small_B.glb",
+    "ken (1)": {
+      "resource": "/ken/ken (1).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[14.922,5.104,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #53 ken (1)"
+    },
+    "ken (2)": {
+      "resource": "/ken/ken (2).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[-14.929,-0.023,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #54 ken (2)"
+    },
+    "ken (3)": {
+      "resource": "/ken/ken (3).JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[8.021,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #55 ken (3)"
+    },
+    "ken (4)": {
+      "resource": "/ken/ken (4).JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[-8.078,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #56 ken (4)"
+    },
+    "ken (5)": {
+      "resource": "/ken/ken (5).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[8.021,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #57 ken (5)"
+    },
+    "ken (6)": {
+      "resource": "/ken/ken (6).JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[-8.078,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #58 ken (6)"
+    },
+    "ken (7)": {
+      "resource": "/ken/ken (7).JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[14.922,-5.135,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #59 ken (7)"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "of": {
+    "parent": "root",
+    "resource": "of.glb",
+    "template": "T_small_B.glb",
+    "IMG_0427": {
+      "resource": "/of/IMG_0427.JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[14.922,7.872,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #60 IMG_0427"
+    },
+    "IMG_1429": {
+      "resource": "/of/IMG_1429.JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-14.929,-7.703,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #61 IMG_1429"
+    },
+    "IMG_1475": {
+      "resource": "/of/IMG_1475.JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.01",
+      "location": "[5.713,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #62 IMG_1475"
+    },
+    "IMG_1476": {
+      "resource": "/of/IMG_1476.JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[-10.526,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #63 IMG_1476"
+    },
+    "IMG_1477": {
+      "resource": "/of/IMG_1477.JPG",
+      "resource_type": "image",
+      "width": "80.04",
+      "height": "120.00",
+      "location": "[10.468,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #64 IMG_1477"
+    },
+    "IMG_1479": {
+      "resource": "/of/IMG_1479.JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[-8.078,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #65 IMG_1479"
+    },
+    "IMG_1480": {
+      "resource": "/of/IMG_1480.JPG",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.03",
+      "location": "[14.922,-0.016,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #66 IMG_1480"
+    },
+    "IMG_1481": {
+      "resource": "/of/IMG_1481.JPG",
+      "resource_type": "image",
+      "width": "79.98",
+      "height": "120.00",
+      "location": "[-14.929,-0.023,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #67 IMG_1481"
+    },
+    "IMG_1482": {
+      "resource": "/of/IMG_1482.JPG",
+      "resource_type": "image",
+      "width": "80.01",
+      "height": "120.00",
+      "location": "[14.922,-7.903,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #68 IMG_1482"
+    },
+    "IMG_1483": {
+      "resource": "/of/IMG_1483.JPG",
+      "resource_type": "image",
+      "width": "79.99",
+      "height": "120.00",
+      "location": "[-14.929,7.656,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #69 IMG_1483"
+    },
+    "IMG_1484": {
+      "resource": "/of/IMG_1484.JPG",
+      "resource_type": "image",
+      "width": "79.98",
+      "height": "120.00",
+      "location": "[10.746,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #70 IMG_1484"
+    },
+    "IMG_1485": {
+      "resource": "/of/IMG_1485.JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[-5.631,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #71 IMG_1485"
+    },
+    "IMG_1486": {
+      "resource": "/of/IMG_1486.JPG",
+      "resource_type": "image",
+      "width": "80.00",
+      "height": "120.00",
+      "location": "[5.573,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #72 IMG_1486"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "show_plaques": true
+  }
+}
