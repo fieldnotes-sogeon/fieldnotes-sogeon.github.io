@@ -381,7 +381,12 @@ function populate_template(config_file, room_name,scene){
 		
 		if (regul_exp_door.test(mesh.name)){
 			if (renamed_doors >= max_doors){ //delete the door from the mesh
-				mesh.name="dummydoor" + renamed_doors;
+				//mesh.name="dummydoor" + renamed_doors;
+				// JSON에 등록되지 않은 문은 숨김
+			    mesh.isVisible = false;
+			    mesh.isPickable = false;
+			    mesh.checkCollisions = false;
+			    mesh.name = "dummydoor" + renamed_doors;
 								
 			} else {
 				mesh.name="d_" + dict_items[renamed_doors] + "_" + renamed_doors;
