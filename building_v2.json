@@ -7,12 +7,12 @@
       "resource": "archive.glb",
       "resource_type": "door"
     },
-    "ken": {
-      "resource": "ken.glb",
-      "resource_type": "door"
-    },
     "of": {
       "resource": "of.glb",
+      "resource_type": "door"
+    },
+    "ken": {
+      "resource": "ken.glb",
       "resource_type": "door"
     }
   },
