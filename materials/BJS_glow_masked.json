@@ -615,7 +615,7 @@
       ],
       "texture": {
         "tags": null,
-        "url": "http://localhost/materials/logo.png",
+        "url": "http://localhost/materials/logo_.png",
         "uOffset": 0,
         "vOffset": 0,
         "uScale": 1,
@@ -628,7 +628,7 @@
         "wRotationCenter": 0.5,
         "homogeneousRotationInUVTransform": false,
         "isBlocking": true,
-        "name": "http://localhost/materials/logo.png",
+        "name": "http://localhost/materials/logo_.png",
         "hasAlpha": false,
         "getAlphaFromRGB": false,
         "level": 1,
