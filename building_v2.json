@@ -599,8 +599,8 @@
     "IMG_1475": {
       "resource": "/of/of (3).JPG",
       "resource_type": "image",
-      "width": "120.00",
-      "height": "80.00",
+      "width": "80.00",
+      "height": "120.00",
       "location": "[5.713,14.922,2.000]",
       "vector": "[0.0,-1.0]",
       "metadata": "ID #62 of"
@@ -635,8 +635,8 @@
     "IMG_1480": {
       "resource": "/of/of (7).JPG",
       "resource_type": "image",
-      "width": "120.00",
-      "height": "80.00",
+      "width": "80.00",
+      "height": "120.00",
       "location": "[14.922,-0.016,2.000]",
       "vector": "[-1.0,0.0]",
       "metadata": "ID #66 of"
