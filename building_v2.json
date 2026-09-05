@@ -617,8 +617,8 @@
     "IMG_1477": {
       "resource": "/of/of (5).JPG",
       "resource_type": "image",
-      "width": "80.04",
-      "height": "120.00",
+      "width": "120.00",
+      "height": "80.00",
       "location": "[10.468,-14.926,2.000]",
       "vector": "[0.0,1.0]",
       "metadata": "ID #64 of"
@@ -626,8 +626,8 @@
     "IMG_1479": {
       "resource": "/of/of (6).JPG",
       "resource_type": "image",
-      "width": "120.00",
-      "height": "80.00",
+      "width": "80.00",
+      "height": "120.00",
       "location": "[-8.078,-14.926,2.000]",
       "vector": "[0.0,1.0]",
       "metadata": "ID #65 of"
@@ -653,8 +653,8 @@
     "IMG_1482": {
       "resource": "/of/of (9).JPG",
       "resource_type": "image",
-      "width": "80.01",
-      "height": "120.00",
+      "width": "120.00",
+      "height": "80.00",
       "location": "[14.922,-7.903,2.000]",
       "vector": "[-1.0,0.0]",
       "metadata": "ID #68 of"
@@ -662,8 +662,8 @@
     "IMG_1483": {
       "resource": "/of/of (10).JPG",
       "resource_type": "image",
-      "width": "120.00",
-      "height": "80.00",
+      "width": "80.00",
+      "height": "120.00",
       "location": "[-14.929,7.656,2.000]",
       "vector": "[1.0,0.0]",
       "metadata": "ID #69 of"
